@@ -1,6 +1,6 @@
 # portfolio-html-css-uber
 
-My first project while studying on the course "Web Developer - 2020".
+1️⃣ My first project while studying on the course "Web Developer - 2020".
 Project "Uber"🚕
 
 🎯 Goals before the project:
